@@ -4,7 +4,7 @@
     "url": "https://account.oasismc.cc/",
     "icon": "https://icons.duckduckgo.com/ip3/account.oasismc.cc.ico",
     "slug": "account",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1034,
     "timeMonth": 1058,
     "timeYear": 1058,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-01": 0
+    }
   },
   {
     "name": "API",
