@@ -4,19 +4,19 @@
     "url": "https://account.oasismc.cc/",
     "icon": "https://icons.duckduckgo.com/ip3/account.oasismc.cc.ico",
     "slug": "account",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1058,
-    "timeDay": 1101,
-    "timeWeek": 1034,
-    "timeMonth": 1058,
-    "timeYear": 1058,
+    "status": "up",
+    "uptime": "99.10%",
+    "uptimeDay": "90.94%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "99.10%",
+    "time": 1074,
+    "timeDay": 1209,
+    "timeWeek": 1069,
+    "timeMonth": 1074,
+    "timeYear": 1074,
     "dailyMinutesDown": {
-      "2025-04-01": 0
+      "2025-04-01": 130
     }
   },
   {
