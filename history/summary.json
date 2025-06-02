@@ -4,7 +4,7 @@
     "url": "https://account.oasismc.cc/",
     "icon": "https://icons.duckduckgo.com/ip3/account.oasismc.cc.ico",
     "slug": "account",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 956,
     "timeYear": 1015,
     "dailyMinutesDown": {
+      "2025-06-02": 0,
       "2025-05-25": 17,
       "2025-05-06": 22,
       "2025-04-23": 32,
